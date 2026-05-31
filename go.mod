@@ -42,7 +42,7 @@ require (
 	github.com/metacubex/tailscale v0.0.0-20260520011538-f23132fac4b7
 	github.com/metacubex/tfo-go v0.0.0-20251130171125-413e892ac443
 	github.com/metacubex/tls v0.1.6
-	github.com/metacubex/utls v1.8.4
+	github.com/homestuck-ng/utls v1.8.4
 	github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f
 	github.com/mroth/weightedrand/v2 v2.1.0
 	github.com/openacid/low v0.1.21
@@ -98,6 +98,7 @@ require (
 	github.com/google/btree v1.1.3 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/pprof v0.0.0-20240727154555-813a5fbdbec8 // indirect
+	github.com/homestuck-ng/utls v1.8.4 // indirect
 	github.com/huin/goupnp v1.3.0 // indirect
 	github.com/josharian/native v1.1.0 // indirect
 	github.com/jsimonetti/rtnetlink v1.4.0 // indirect

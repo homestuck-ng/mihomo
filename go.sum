@@ -69,6 +69,8 @@ github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeN
 github.com/google/pprof v0.0.0-20240727154555-813a5fbdbec8 h1:FKHo8hFI3A+7w0aUQuYXQ+6EN5stWmeY/AZqtM8xk9k=
 github.com/google/pprof v0.0.0-20240727154555-813a5fbdbec8/go.mod h1:K1liHPHnj73Fdn/EKuT8nrFqBihUSKXoLYU0BuatOYo=
 github.com/google/tink/go v1.6.1 h1:t7JHqO8Ath2w2ig5vjwQYJzhGEZymedQc90lQXUBa4I=
+github.com/homestuck-ng/utls v1.8.4 h1:drrxbvG2EtvH1acNPbbpYMsx5CwwMTncCQGTMrTVWm0=
+github.com/homestuck-ng/utls v1.8.4/go.mod h1:sytZfy62WwuX8ajwntMUtLJ3bPCfTWdnZRAGFcRq2yY=
 github.com/huin/goupnp v1.3.0 h1:UvLUlWDNpoUdYzb2TCn+MuTWtcjXKSza2n6CBdQ0xXc=
 github.com/huin/goupnp v1.3.0/go.mod h1:gnGPsThkYa7bFi/KWmEysQRf48l2dvR5bxr2OFckNX8=
 github.com/insomniacslk/dhcp v0.0.0-20250109001534-8abf58130905 h1:q3OEI9RaN/wwcx+qgGo6ZaoJkCiDYe/gjDLfq7lQQF4=
@@ -173,8 +175,8 @@ github.com/metacubex/tfo-go v0.0.0-20251130171125-413e892ac443 h1:H6TnfM12tOoTiz
 github.com/metacubex/tfo-go v0.0.0-20251130171125-413e892ac443/go.mod h1:l9oLnLoEXyGZ5RVLsh7QCC5XsouTUyKk4F2nLm2DHLw=
 github.com/metacubex/tls v0.1.6 h1:t2ubLneYa4ceyIC++54a57BLqZFA/QYUrhdjLk2GPwo=
 github.com/metacubex/tls v0.1.6/go.mod h1:0XeVdL0cBw+8i5Hqy3lVeP9IyD/LFTq02ExvHM6rzEM=
-github.com/metacubex/utls v1.8.4 h1:HmL9nUApDdWSkgUyodfwF6hSjtiwCGGdyhaSpEejKpg=
-github.com/metacubex/utls v1.8.4/go.mod h1:kncGGVhFaoGn5M3pFe3SXhZCzsbCJayNOH4UEqTKTko=
+github.com/homestuck-ng/utls v1.8.4 h1:HmL9nUApDdWSkgUyodfwF6hSjtiwCGGdyhaSpEejKpg=
+github.com/homestuck-ng/utls v1.8.4/go.mod h1:kncGGVhFaoGn5M3pFe3SXhZCzsbCJayNOH4UEqTKTko=
 github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f h1:FGBPRb1zUabhPhDrlKEjQ9lgIwQ6cHL4x8M9lrERhbk=
 github.com/metacubex/wireguard-go v0.0.0-20250820062549-a6cecdd7f57f/go.mod h1:oPGcV994OGJedmmxrcK9+ni7jUEMGhR+uVQAdaduIP4=
 github.com/metacubex/yamux v0.0.0-20250918083631-dd5f17c0be49 h1:lhlqpYHopuTLx9xQt22kSA9HtnyTDmk5XjjQVCGHe2E=

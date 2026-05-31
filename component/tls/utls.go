@@ -11,7 +11,7 @@ import (
 	"github.com/metacubex/mihomo/log"
 
 	"github.com/metacubex/tls"
-	utls "github.com/metacubex/utls"
+	utls "github.com/homestuck-ng/utls"
 	"github.com/mroth/weightedrand/v2"
 	"golang.org/x/exp/slices"
 )
